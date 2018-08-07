@@ -1,0 +1,6 @@
+4. Course Map
+    4 States Of A Promise:
+        1. Fulfilled (Resolved) - It worked.
+        2. Rejected - It didn't work.
+        3. Pending - Still waiting. (Not yet fulfilled nor rejected.)
+        4. Settled - Something happened. (Either fulfilled or rejected.)
